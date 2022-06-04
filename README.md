@@ -12,26 +12,26 @@ A Real Time Strategy Game
 
 # Screenshots of Game
 
-**Main Menu && Empire Charctarstics**
+#**Main Menu && Empire Charctarstics**
 ![MainMenu](https://user-images.githubusercontent.com/106610412/172017536-701ffb3f-bbb8-4ce7-94eb-8a8e18445534.PNG)
 ![myEmpire](https://user-images.githubusercontent.com/106610412/172017542-fee8d2cc-11e1-43c0-8073-de3004938650.PNG)
 
-**Main Map**
+#**Main Map**
 ![MainMap](https://user-images.githubusercontent.com/106610412/172017545-4456d5e7-d4f0-4d63-9ff2-efc1f8c8ba81.PNG)
 
-**Some Empires Statstics**
+#**Some Empires Statstics**
 ![Empire ex#1](https://user-images.githubusercontent.com/106610412/172017559-f745e5b6-2b26-4529-b06c-2b293ed7764f.PNG)
 ![Empire ex#2](https://user-images.githubusercontent.com/106610412/172017562-9ff095f0-1457-41e2-835d-c1a843393bb9.PNG)
 
-**Event Example**
+#**Event Example**
 ![Event ex#1](https://user-images.githubusercontent.com/106610412/172017578-9ca8fae2-e2f9-4f09-8218-7d34a6b55f05.PNG)
 
-**In-Game Windows**
+#**In-Game Windows**
 ![Market](https://user-images.githubusercontent.com/106610412/172017567-7c6b9567-15ab-4081-8a8b-79fa79709855.PNG)
 ![Conquer Window](https://user-images.githubusercontent.com/106610412/172017572-ecb7bda2-c73e-420c-bcf5-15599e721775.PNG)
 ![GameInfo](https://user-images.githubusercontent.com/106610412/172017584-5bbba3e3-72f1-4085-a4d6-1095b2624f17.PNG)
 
-**Main Map After some time**
+#**Main Map After some time**
 ![Map After some events](https://user-images.githubusercontent.com/106610412/172017588-9ef300aa-7266-4908-b81c-290822fb141b.PNG)
 
 
