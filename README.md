@@ -45,11 +45,11 @@ A Real Time Strategy Game
 
 **Potential Improvements:**
 
-1- The Empire taking over land system is weak, it works smooth with the main players, but faces some problems with implementing new events of empires taking over another empire. Currently is working properly but needs an improvment.
+1- Addtion of more events.
 
-2- Addtion of more events.
+2- Profcient and effcient organization of the codes and classes.
 
-3- Profcient and effcient organization of the codes and classes.
+3- Clarification and simplification of the in-game UI
 
 # Author Notes
 *This is an open-source project, if you happen to work on improvments and more events, please reach out to me and let me know, I would be glad to see what the community can do with this baisis. I do work on potential improvements from time to time*
