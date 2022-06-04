@@ -1,7 +1,7 @@
 # Tussle
 A Real Time Strategy Game
 
-*Download Zip > Extract File > Double Click Tussle*
+*Download Zip > Extract File > Double Click TussleProject > Double Click Tussle.jar*
 
 # Game Description
 **Short Description:** A solo player video game designed individually on Java. The player starts as a small empire and the goal is defeating other empires. Multiple random events and factors are crucial to a successful world take-over! There are certain factors of your empire that you need to control, such as money, oil, military equipment, food stocks, tax levels, military morale, political decsions, and people’s support.
